@@ -1,7 +1,7 @@
 (function() {
 
 // 1フレームは何ミリ秒にするか
-var MILLISEC_PER_FRAME = 1000 / 60;
+var MILLISEC_PER_FRAME = 13;
 
 var graph = null;
 
